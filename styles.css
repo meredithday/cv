@@ -1,10 +1,10 @@
 body {
-    background-color: #FFEACB;
-    color: #46244C;
+    background-color: #F5E8E4;
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 hr {
-    border-top-color: #92BA92;
+    border-top-color: #F5C7A9;
     border-style: dotted none none none;
     border-top-width: 10px;
     height: 0px;
@@ -13,25 +13,25 @@ hr {
 }
 
 h1 {
-    color: #712B75;
+    color: #411530;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 
 h2 {
-    color: #C74B50;
+    color: #411530;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
 h3 {
-    color: #C74B50;
+    color: #411530;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
 a {
-    color: #D49B54;
+    color: #D1512D;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
